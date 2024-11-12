@@ -1,0 +1,4 @@
+train_data/*
+.DS_store
+*.zip
+cnn.py
